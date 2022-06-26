@@ -5,6 +5,9 @@
   "dependencies": {
     "@babel/plugin-syntax-flow": "7.14.5",
     "@babel/plugin-transform-react-jsx": "7.14.9",
+    "@fontsource/noto-sans-jp": "^4.5.10",
+    "@fontsource/poppins": "^4.5.8",
+    "@fontsource/ubuntu-mono": "^4.5.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",

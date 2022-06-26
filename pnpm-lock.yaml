@@ -3,6 +3,9 @@ lockfileVersion: 5.4
 specifiers:
   '@babel/plugin-syntax-flow': 7.14.5
   '@babel/plugin-transform-react-jsx': 7.14.9
+  '@fontsource/noto-sans-jp': ^4.5.10
+  '@fontsource/poppins': ^4.5.8
+  '@fontsource/ubuntu-mono': ^4.5.10
   react: ^18.2.0
   react-dom: ^18.2.0
   react-scripts: 5.0.1
@@ -11,6 +14,9 @@ specifiers:
 dependencies:
   '@babel/plugin-syntax-flow': 7.14.5
   '@babel/plugin-transform-react-jsx': 7.14.9
+  '@fontsource/noto-sans-jp': 4.5.10
+  '@fontsource/poppins': 4.5.8
+  '@fontsource/ubuntu-mono': 4.5.10
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-scripts: 5.0.1_lq6jojhgvzolvbk5gwopsvmqva
@@ -1580,6 +1586,18 @@ packages:
       strip-json-comments: 3.1.1
     transitivePeerDependencies:
       - supports-color
+    dev: false
+
+  /@fontsource/noto-sans-jp/4.5.10:
+    resolution: {integrity: sha512-bRYEtITx5m/TxYMfeWupEpihJ98HeKEYeOYeP0hvWPbAlgxtnqBgbUPFPm0Aa0MZihFS/Fi+QYShhZorJLGBSQ==}
+    dev: false
+
+  /@fontsource/poppins/4.5.8:
+    resolution: {integrity: sha512-HE9yLDxYJEcxooVrYvvEhtyxaYU32hQIx1+npKegVefceE0l0zi0ePqKWWxYxkFpyy6WuZSQ+9rai3INnYKEJA==}
+    dev: false
+
+  /@fontsource/ubuntu-mono/4.5.10:
+    resolution: {integrity: sha512-r6RDlPjlFoBz8cH1+qUQ8Rkx1FI0L/sk4NchWjc5RTYT5rroDIUnI420oK+EhDo3f01gU38DJvL1phPKDw3A3Q==}
     dev: false
 
   /@humanwhocodes/config-array/0.9.5:
